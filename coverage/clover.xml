@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1652191739013" clover="3.2.0">
-  <project timestamp="1652191739014" name="All files">
+<coverage generated="1652292907588" clover="3.2.0">
+  <project timestamp="1652292907588" name="All files">
     <metrics statements="58" coveredstatements="58" conditionals="4" coveredconditionals="4" methods="0" coveredmethods="0" elements="62" coveredelements="62" complexity="0" loc="58" ncloc="58" packages="1" files="1" classes="1"/>
     <file name="submit-feedback-use-case.ts" path="C:\Users\Siscon\Desktop\return\aulas\server\src\use-cases\submit-feedback-use-case.ts">
       <metrics statements="58" coveredstatements="58" conditionals="4" coveredconditionals="4" methods="0" coveredmethods="0"/>
